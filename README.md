@@ -7,7 +7,7 @@ Quantifying erosion rates in high mountain areas is not straightforward due to t
 
 To run the model, open and run the code "master_script_STEIN." The scripts will generate a sequence of output files. The model can take some time for each individual evaluation, depending on the integration time (total model time) input.
 
-Figures corresponding to those in the publicaiton can be generated using the "plotting_functions" script. A test dataset from which figures in the accompanying publication are generated is included in the folder "test_dataset" and can be used to generate the figures from the manuscript.
+Figures corresponding to those in the publicaiton can be generated using the "plotting_functions" script. A test dataset from which figures in the accompanying publication are generated is included in the zipped file "Dennis_and_Scherler_2021_test_dataset.zip" and can be used to generate the figures from the manuscript.
 
 Files in the test dataset are divided according to the scenario type. Files within the correction_test_dataset folder and stochastic_outputs folders are “Scenario Output Files”, the following row/column naming conventions apply:
 
